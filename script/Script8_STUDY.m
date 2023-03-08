@@ -39,9 +39,4 @@ CURRENTSTUDY = 1; EEG = ALLEEG; CURRENTSET = [1:length(EEG)];
 eeglab redraw
 
 
-% All Channel Plot
-
-% Compare Pz Cz Oz
-
-
-
+% Plot using GUI
